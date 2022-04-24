@@ -40,7 +40,7 @@ http://127.0.0.1:8000/redoc/
 **Написано начинающим программистом Марго**
 _____________________________________________________________________
 
-# API проекта Yatube (v1)
+# Yatube Project API (v1)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 The Yatube project API (v1) is a functionality for accessing various project data, namely posts, groups, subscribers, comments on posts.
