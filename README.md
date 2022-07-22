@@ -37,7 +37,8 @@ python3 manage.py runserver
 После запуска сервера можно ознакомится с документацией по проекту, в которой описана основная логика приложения, документация доступна по ссылке:
 http://127.0.0.1:8000/redoc/
 
-**Написано начинающим программистом Марго**
+**Написано программистом 
+Margarita-pyth**
 _____________________________________________________________________
 
 # Yatube Project API (v1)
@@ -79,4 +80,5 @@ python3 manage.py runserver
 After starting the server, you can get acquainted with the project documentation, which describes the main logic of the application, the documentation is available at the link:
 http://127.0.0.1:8000/redoc/
 
-**Written by a novice programmer Margo**
+**Written by programmer
+Margarita-pyth**
