@@ -14,6 +14,7 @@ API проекта Yatube (v1) это функционал для получен
 ## Как запустить проект:
 Клонировать репозиторий и перейти в него в командной строке:
 ```sh
+git clone https://github.com/Margarita-pyth/api_final_yatube.git
 cd api_final_yatube
 ```
 Cоздать и активировать виртуальное окружение:
@@ -57,6 +58,7 @@ The Yatube project API (v1) is a functionality for accessing various project dat
 ## How to start the project:
 Clone the repository and go to it on the command line:
 ```sh
+git clone https://github.com/Margarita-pyth/api_final_yatube.git
 cd api_final_yatube
 ```
 Create and activate a virtual environment:
